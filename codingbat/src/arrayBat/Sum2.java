@@ -1,0 +1,14 @@
+package arrayBat;
+/*Given an array of ints, return the sum of the first 2 elements in the array.
+  If the array length is less than 2, just sum up the elements that exist,
+  returning 0 if the array is length 0.*/
+public class Sum2 {
+	public int sum2(int[] nums) {
+		int[] sum2 = new int[nums.length];
+		if(sum2.length>=2)
+			return nums[0] + nums[1];
+		else if(sum2.length==1)
+			return nums[0];
+		else return 0;
+	}
+}
