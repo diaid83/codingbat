@@ -1,5 +1,5 @@
 # codingbat
-My solutions to CodingBat challenges. I will add more as I solve them
+My solutions to CodingBat challenges. I will add more as I solve them.
 
 | #  | Sections |Status |
 | :------: | :------------:|:------------: |
